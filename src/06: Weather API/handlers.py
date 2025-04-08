@@ -5,7 +5,7 @@ from dotenv import load_dotenv
 from aiogram.filters import CommandStart, Command, CommandObject
 from aiogram.types import Message
 from aiogram import Dispatcher
-from database import Database
+from db.database import Database
 
 
 class BotHandlers:

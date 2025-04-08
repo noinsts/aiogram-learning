@@ -1,7 +1,5 @@
 import sqlite3
 
-DB_NAME = 'database.db'
-
 
 class Database:
     def __init__(self, db_name='database.db'):

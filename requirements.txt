@@ -4,3 +4,4 @@ aiohttp
 discord.py
 yeelight
 requests
+praw
